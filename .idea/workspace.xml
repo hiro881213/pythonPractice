@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="make print file" />
+    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="use type function">
+      <change beforePath="$PROJECT_DIR$/chapter1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -146,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726331985060</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="make print function">
+      <option name="closed" value="true" />
+      <created>1726332219723</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726332219723</updated>
+    </task>
+    <task id="LOCAL-00008" summary="use type function">
+      <option name="closed" value="true" />
+      <created>1726332445702</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726332445702</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +183,8 @@
     <MESSAGE value="print file" />
     <MESSAGE value="first commit" />
     <MESSAGE value="make print file" />
-    <option name="LAST_COMMIT_MESSAGE" value="make print file" />
+    <MESSAGE value="make print function" />
+    <MESSAGE value="use type function" />
+    <option name="LAST_COMMIT_MESSAGE" value="use type function" />
   </component>
 </project>
