@@ -25,3 +25,11 @@ print(name_2, type(name_2))
 
 name_2 = num_2
 print(name_2, type(name_2))
+
+# 型変換処理
+print('##### 型変換処理 #####')
+name_3 = '1'
+print(name_3, type(name_3))
+
+new_num = int(name_3)
+print(new_num, type(new_num))
