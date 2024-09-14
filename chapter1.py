@@ -1,1 +1,2 @@
-print('hello world')
+num = 1
+print(num)
