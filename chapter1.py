@@ -33,3 +33,11 @@ print(name_3, type(name_3))
 
 new_num = int(name_3)
 print(new_num, type(new_num))
+
+# 型の明示化
+num_4: int = 1
+name_4: str = '1'
+
+print('##### 型の明示化 #####')
+print(num_4, type(num_4))
+print(name_4, type(name_4))
