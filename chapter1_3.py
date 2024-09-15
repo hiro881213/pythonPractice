@@ -42,3 +42,6 @@ print(result)
 print("##### 対数の計算 #####")
 result = math.log2(10)
 print(result)
+
+print("##### help関数 #####")
+print(help(math))
