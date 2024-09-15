@@ -14,3 +14,6 @@ print("I don't know")
 
 print("##### シングルクオートの中にシングルクオート #####")
 print('I don\'t know')
+
+print("ダブルクオートの中にダブルクオート")
+print("say \"I don't know\"")
