@@ -8,3 +8,6 @@ print("help")
 print("##### シングルクオートとダブルクオート #####")
 print('single')
 print("double")
+
+print("##### ダブルクオートの中にシングルクオート #####")
+print("I don't know")
