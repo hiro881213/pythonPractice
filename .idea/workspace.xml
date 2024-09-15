@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="数値を丸めを追加する">
+    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="help関数を追加する">
       <change beforePath="$PROJECT_DIR$/chapter1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -380,7 +380,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726371856169</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="数学関数の利用を追加する">
+      <option name="closed" value="true" />
+      <created>1726372050560</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1726372050560</updated>
+    </task>
+    <task id="LOCAL-00030" summary="対数の計算を追加する">
+      <option name="closed" value="true" />
+      <created>1726372140414</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1726372140414</updated>
+    </task>
+    <task id="LOCAL-00031" summary="help関数を追加する">
+      <option name="closed" value="true" />
+      <created>1726372255427</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726372255427</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -418,7 +442,10 @@
     <MESSAGE value="割り算の剰余を追加する" />
     <MESSAGE value="冪乗の計算を追加する" />
     <MESSAGE value="数値を丸めを追加する" />
-    <option name="LAST_COMMIT_MESSAGE" value="数値を丸めを追加する" />
+    <MESSAGE value="数学関数の利用を追加する" />
+    <MESSAGE value="対数の計算を追加する" />
+    <MESSAGE value="help関数を追加する" />
+    <option name="LAST_COMMIT_MESSAGE" value="help関数を追加する" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
