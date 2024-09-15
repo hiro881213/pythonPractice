@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="終わりの文字を指定する" />
+    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="足し算を追加する">
+      <change afterPath="$PROJECT_DIR$/chapter1_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,11 +55,12 @@
     "Python.chapter1.executor": "Run",
     "Python.chapter1_1.executor": "Run",
     "Python.chapter1_2.executor": "Run",
+    "Python.chapter1_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.chapter1_2">
+  <component name="RunManager" selected="Python.chapter1_3">
     <configuration name="chapter1_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_practice" />
       <option name="ENV_FILES" value="" />
@@ -101,8 +105,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="chapter1_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter1_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chapter1_3" />
         <item itemvalue="Python.chapter1_2" />
         <item itemvalue="Python.chapter1_1" />
       </list>
@@ -284,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726334230605</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="足し算を追加する">
+      <option name="closed" value="true" />
+      <created>1726371189088</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726371189088</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -314,7 +349,8 @@
     <MESSAGE value="make new file" />
     <MESSAGE value="区切り文字を指定する" />
     <MESSAGE value="終わりの文字を指定する" />
-    <option name="LAST_COMMIT_MESSAGE" value="終わりの文字を指定する" />
+    <MESSAGE value="足し算を追加する" />
+    <option name="LAST_COMMIT_MESSAGE" value="足し算を追加する" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
