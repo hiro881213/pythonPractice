@@ -13,3 +13,7 @@ print(word[2:5])
 print(word[:2])
 print(word[2:])
 print(word[:])
+
+print("##### len関数 #####")
+n = len(word)
+print(n)
