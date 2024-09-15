@@ -20,3 +20,6 @@ print("say \"I don't know\"")
 
 print("##### 改行 #####")
 print('Hello.\nHow are you?')
+
+print("##### 意図せぬ改行の回避 #####")
+print(r'C:\name\name')
