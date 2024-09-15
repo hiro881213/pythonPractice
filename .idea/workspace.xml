@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="type express">
-      <change beforePath="$PROJECT_DIR$/chapter1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1.py" afterDir="false" />
-    </list>
+    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="終わりの文字を指定する" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,13 +47,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.chapter1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.chapter1.executor": "Run",
+    "Python.chapter1_1.executor": "Run",
+    "Python.chapter1_2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.chapter1_2">
     <configuration name="chapter1_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_practice" />
@@ -260,7 +260,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726333809877</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="make new file">
+      <option name="closed" value="true" />
+      <created>1726333915686</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1726333915686</updated>
+    </task>
+    <task id="LOCAL-00019" summary="区切り文字を指定する">
+      <option name="closed" value="true" />
+      <created>1726334043876</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1726334043876</updated>
+    </task>
+    <task id="LOCAL-00020" summary="終わりの文字を指定する">
+      <option name="closed" value="true" />
+      <created>1726334230605</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1726334230605</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,7 +311,10 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="change variable type2" />
     <MESSAGE value="type express" />
-    <option name="LAST_COMMIT_MESSAGE" value="type express" />
+    <MESSAGE value="make new file" />
+    <MESSAGE value="区切り文字を指定する" />
+    <MESSAGE value="終わりの文字を指定する" />
+    <option name="LAST_COMMIT_MESSAGE" value="終わりの文字を指定する" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
