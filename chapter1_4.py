@@ -17,3 +17,6 @@ print('I don\'t know')
 
 print("ダブルクオートの中にダブルクオート")
 print("say \"I don't know\"")
+
+print("##### 改行 #####")
+print('Hello.\nHow are you?')
