@@ -46,5 +46,9 @@ print("Hello" * 3)
 print("##### 文字列を連結する(連結) #####")
 print("Hi " * 3 + 'Mike')
 
-print("リテラル同士を連結する")
+print("##### リテラル同士を連結する #####")
 print("Py""thon")
+
+print("##### 変数とリテラルを連結する #####")
+prefix = "Py"
+print(prefix + "thon")
