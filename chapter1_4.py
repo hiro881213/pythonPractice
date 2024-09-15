@@ -11,3 +11,6 @@ print("double")
 
 print("##### ダブルクオートの中にシングルクオート #####")
 print("I don't know")
+
+print("##### シングルクオートの中にシングルクオート #####")
+print('I don\'t know')
