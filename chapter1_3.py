@@ -30,3 +30,10 @@ print(5 ** 2)
 print("##### 数値を丸める #####")
 pie = 3.141592653
 print(round(pie, 2))
+
+# 数学関数の利用
+print("##### 数学関数の利用 #####")
+import math
+
+result = math.sqrt(25)
+print(result)
