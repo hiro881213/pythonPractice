@@ -1,3 +1,5 @@
+import math
+
 # 足し算
 print("##### 足し算 ######")
 print(2 + 2)
@@ -33,7 +35,10 @@ print(round(pie, 2))
 
 # 数学関数の利用
 print("##### 数学関数の利用 #####")
-import math
-
 result = math.sqrt(25)
+print(result)
+
+# 対数の計算
+print("##### 対数の計算 #####")
+result = math.log2(10)
 print(result)
