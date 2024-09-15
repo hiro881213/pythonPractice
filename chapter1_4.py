@@ -23,3 +23,10 @@ print('Hello.\nHow are you?')
 
 print("##### 意図せぬ改行の回避 #####")
 print(r'C:\name\name')
+
+print("##### 複数行にわたる文字列の出力 #####")
+print("""
+    line 1
+    line 2
+    line 3
+""")

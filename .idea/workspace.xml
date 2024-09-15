@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="シングルクオートの中にシングルクオートを追加する">
+    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="意図せぬ改行の回避を追加する">
       <change beforePath="$PROJECT_DIR$/chapter1_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -468,7 +468,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726389062994</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="ダブルクオートの中にダブルクオートを追加する">
+      <option name="closed" value="true" />
+      <created>1726389178824</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1726389178824</updated>
+    </task>
+    <task id="LOCAL-00038" summary="改行を追加する">
+      <option name="closed" value="true" />
+      <created>1726389268058</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1726389268058</updated>
+    </task>
+    <task id="LOCAL-00039" summary="意図せぬ改行の回避を追加する">
+      <option name="closed" value="true" />
+      <created>1726389384278</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1726389384278</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -484,9 +508,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;chapter1.py" />
-    <MESSAGE value="Add Boolean" />
-    <MESSAGE value="change variable type" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="change variable type2" />
     <MESSAGE value="type express" />
@@ -509,7 +530,10 @@
     <MESSAGE value="シングルクオートとダブルクオートを追加する" />
     <MESSAGE value="ダブルクオートの中にシングルクオートを追加する" />
     <MESSAGE value="シングルクオートの中にシングルクオートを追加する" />
-    <option name="LAST_COMMIT_MESSAGE" value="シングルクオートの中にシングルクオートを追加する" />
+    <MESSAGE value="ダブルクオートの中にダブルクオートを追加する" />
+    <MESSAGE value="改行を追加する" />
+    <MESSAGE value="意図せぬ改行の回避を追加する" />
+    <option name="LAST_COMMIT_MESSAGE" value="意図せぬ改行の回避を追加する" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
