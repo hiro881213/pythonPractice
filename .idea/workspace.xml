@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="replace methodを追加する">
-      <change afterPath="$PROJECT_DIR$/chapter1_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="format methodを追加する">
+      <change beforePath="$PROJECT_DIR$/chapter1_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,14 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726331271815</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Add Boolean">
-      <option name="closed" value="true" />
-      <created>1726332924664</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1726332924664</updated>
     </task>
     <task id="LOCAL-00011" summary="Add Boolean">
       <option name="closed" value="true" />
@@ -599,7 +590,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726491729449</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="format methodを追加する">
+      <option name="closed" value="true" />
+      <created>1726491989506</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1726491989506</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -615,7 +614,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="シングルクオートとダブルクオートを追加する" />
     <MESSAGE value="ダブルクオートの中にシングルクオートを追加する" />
     <MESSAGE value="シングルクオートの中にシングルクオートを追加する" />
     <MESSAGE value="ダブルクオートの中にダブルクオートを追加する" />
@@ -640,7 +638,8 @@
     <MESSAGE value="lower methodを追加する" />
     <MESSAGE value="upper methodを追加する" />
     <MESSAGE value="replace methodを追加する" />
-    <option name="LAST_COMMIT_MESSAGE" value="replace methodを追加する" />
+    <MESSAGE value="format methodを追加する" />
+    <option name="LAST_COMMIT_MESSAGE" value="format methodを追加する" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
