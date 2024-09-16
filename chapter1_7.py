@@ -14,3 +14,7 @@ print(s2.format(1, 2, 3))
 
 s3 = 'a is {2} {1} {0}'
 print(s3.format(1, 2, 3))
+
+print('##### format method using variable names #####')
+s4 = 'My name is {name} {family}. Watashi wa {family} {name}'
+print(s4.format(name='Hiro', family='Frank'))
