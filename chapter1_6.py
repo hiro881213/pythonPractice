@@ -12,3 +12,6 @@ print(s.find('Mike'))
 
 print('##### rfind method #####')
 print(s.rfind('Mike'))
+
+print('##### count method #####')
+print(s.count('Mike'))
