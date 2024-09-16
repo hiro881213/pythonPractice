@@ -7,3 +7,10 @@ print(s.format('test'))
 print('##### format method(Del warnings) #####')
 a = 'test'
 print(f"a is {a}")
+
+print('##### format method including index #####')
+s2 = 'a is {0} {1} {2}'
+print(s2.format(1, 2, 3))
+
+s3 = 'a is {2} {1} {0}'
+print(s3.format(1, 2, 3))
