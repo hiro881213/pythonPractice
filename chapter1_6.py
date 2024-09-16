@@ -15,3 +15,6 @@ print(s.rfind('Mike'))
 
 print('##### count method #####')
 print(s.count('Mike'))
+
+print('##### capitalize method #####')
+print(s.capitalize())
