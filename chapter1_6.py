@@ -24,3 +24,6 @@ print(s.title())
 
 print('##### lower method #####')
 print(s.lower())
+
+print('##### upper method #####')
+print(s.upper())
