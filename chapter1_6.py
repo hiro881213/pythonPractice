@@ -27,3 +27,6 @@ print(s.lower())
 
 print('##### upper method #####')
 print(s.upper())
+
+print('##### replace method #####')
+print(s.replace('Mike', 'Nancy'))

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="find methodを追加する" />
+    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="upper methodを追加する">
+      <change beforePath="$PROJECT_DIR$/chapter1_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1_6.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,54 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726331271815</updated>
-    </task>
-    <task id="LOCAL-00003" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1726331514261</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1726331514261</updated>
-    </task>
-    <task id="LOCAL-00004" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1726331945817</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1726331945817</updated>
-    </task>
-    <task id="LOCAL-00005" summary="make print file">
-      <option name="closed" value="true" />
-      <created>1726331974577</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1726331974577</updated>
-    </task>
-    <task id="LOCAL-00006" summary="make print file">
-      <option name="closed" value="true" />
-      <created>1726331985060</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1726331985060</updated>
-    </task>
-    <task id="LOCAL-00007" summary="make print function">
-      <option name="closed" value="true" />
-      <created>1726332219723</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1726332219723</updated>
-    </task>
-    <task id="LOCAL-00008" summary="use type function">
-      <option name="closed" value="true" />
-      <created>1726332445702</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1726332445702</updated>
     </task>
     <task id="LOCAL-00009" summary="Add Boolean">
       <option name="closed" value="true" />
@@ -595,7 +549,55 @@
       <option name="project" value="LOCAL" />
       <updated>1726491227355</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="rfind methoを追加する">
+      <option name="closed" value="true" />
+      <created>1726491307707</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1726491307707</updated>
+    </task>
+    <task id="LOCAL-00053" summary="count methodを追加する">
+      <option name="closed" value="true" />
+      <created>1726491372291</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1726491372291</updated>
+    </task>
+    <task id="LOCAL-00054" summary="capitalize methodを追加する">
+      <option name="closed" value="true" />
+      <created>1726491450490</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1726491450490</updated>
+    </task>
+    <task id="LOCAL-00055" summary="title methodを追加する">
+      <option name="closed" value="true" />
+      <created>1726491520881</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1726491520881</updated>
+    </task>
+    <task id="LOCAL-00056" summary="lower methodを追加する">
+      <option name="closed" value="true" />
+      <created>1726491577900</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1726491577901</updated>
+    </task>
+    <task id="LOCAL-00057" summary="upper methodを追加する">
+      <option name="closed" value="true" />
+      <created>1726491619981</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1726491619981</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -611,12 +613,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="冪乗の計算を追加する" />
-    <MESSAGE value="数値を丸めを追加する" />
-    <MESSAGE value="数学関数の利用を追加する" />
-    <MESSAGE value="対数の計算を追加する" />
-    <MESSAGE value="help関数を追加する" />
-    <MESSAGE value="文字列表示を追加する" />
     <MESSAGE value="文字列表示2を追加する" />
     <MESSAGE value="シングルクオートとダブルクオートを追加する" />
     <MESSAGE value="ダブルクオートの中にシングルクオートを追加する" />
@@ -636,7 +632,13 @@
     <MESSAGE value="len関数を追加する" />
     <MESSAGE value="StartsWith functionを追加する" />
     <MESSAGE value="find methodを追加する" />
-    <option name="LAST_COMMIT_MESSAGE" value="find methodを追加する" />
+    <MESSAGE value="rfind methoを追加する" />
+    <MESSAGE value="count methodを追加する" />
+    <MESSAGE value="capitalize methodを追加する" />
+    <MESSAGE value="title methodを追加する" />
+    <MESSAGE value="lower methodを追加する" />
+    <MESSAGE value="upper methodを追加する" />
+    <option name="LAST_COMMIT_MESSAGE" value="upper methodを追加する" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
