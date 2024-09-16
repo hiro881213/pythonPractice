@@ -18,3 +18,6 @@ print(s.count('Mike'))
 
 print('##### capitalize method #####')
 print(s.capitalize())
+
+print('##### title method #####')
+print(s.title())
