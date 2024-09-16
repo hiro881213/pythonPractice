@@ -9,3 +9,6 @@ print(is_start2)
 
 print('##### find method #####')
 print(s.find('Mike'))
+
+print('##### rfind method #####')
+print(s.rfind('Mike'))
