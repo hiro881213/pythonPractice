@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="文字列の最後を出力を追加する">
-      <change beforePath="$PROJECT_DIR$/chapter1_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1_5.py" afterDir="false" />
+    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="len関数を追加する">
+      <change afterPath="$PROJECT_DIR$/chapter1_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -580,7 +581,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726390194945</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="文字列のスライスを追加する">
+      <option name="closed" value="true" />
+      <created>1726390346965</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1726390346965</updated>
+    </task>
+    <task id="LOCAL-00049" summary="len関数を追加する">
+      <option name="closed" value="true" />
+      <created>1726390422494</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1726390422494</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -596,8 +613,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="少数の型を追加する" />
-    <MESSAGE value="少数の書き方を追加する" />
     <MESSAGE value="割り切れない割り算を追加する" />
     <MESSAGE value="割り算の剰余を追加する" />
     <MESSAGE value="冪乗の計算を追加する" />
@@ -621,7 +636,9 @@
     <MESSAGE value="変数とリテラルを連結を追加する" />
     <MESSAGE value="文字列のインデックスを追加する" />
     <MESSAGE value="文字列の最後を出力を追加する" />
-    <option name="LAST_COMMIT_MESSAGE" value="文字列の最後を出力を追加する" />
+    <MESSAGE value="文字列のスライスを追加する" />
+    <MESSAGE value="len関数を追加する" />
+    <option name="LAST_COMMIT_MESSAGE" value="len関数を追加する" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
