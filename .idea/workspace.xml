@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="format methodを追加する">
-      <change beforePath="$PROJECT_DIR$/chapter1_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1_7.py" afterDir="false" />
-    </list>
+    <list default="true" id="ba5a5016-d935-402c-9566-7f7a10c4addd" name="変更" comment="format method using variable namesを追加する" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,30 +203,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726331271815</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Add Boolean">
-      <option name="closed" value="true" />
-      <created>1726332996657</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1726332996657</updated>
-    </task>
-    <task id="LOCAL-00012" summary="change variable type">
-      <option name="closed" value="true" />
-      <created>1726333331183</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1726333331183</updated>
-    </task>
-    <task id="LOCAL-00013" summary="change variable type">
-      <option name="closed" value="true" />
-      <created>1726333338015</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1726333338015</updated>
     </task>
     <task id="LOCAL-00014" summary="change variable type">
       <option name="closed" value="true" />
@@ -598,7 +572,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726491989506</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="format method(Del warnings)を追加する">
+      <option name="closed" value="true" />
+      <created>1726492456208</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1726492456208</updated>
+    </task>
+    <task id="LOCAL-00061" summary="format method including indexを追加する">
+      <option name="closed" value="true" />
+      <created>1726492686190</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1726492686191</updated>
+    </task>
+    <task id="LOCAL-00062" summary="format method using variable namesを追加する">
+      <option name="closed" value="true" />
+      <created>1726492814389</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1726492814389</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -614,9 +612,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="ダブルクオートの中にシングルクオートを追加する" />
-    <MESSAGE value="シングルクオートの中にシングルクオートを追加する" />
-    <MESSAGE value="ダブルクオートの中にダブルクオートを追加する" />
     <MESSAGE value="改行を追加する" />
     <MESSAGE value="意図せぬ改行の回避を追加する" />
     <MESSAGE value="複数行にわたる文字列の出力を追加する" />
@@ -639,7 +634,10 @@
     <MESSAGE value="upper methodを追加する" />
     <MESSAGE value="replace methodを追加する" />
     <MESSAGE value="format methodを追加する" />
-    <option name="LAST_COMMIT_MESSAGE" value="format methodを追加する" />
+    <MESSAGE value="format method(Del warnings)を追加する" />
+    <MESSAGE value="format method including indexを追加する" />
+    <MESSAGE value="format method using variable namesを追加する" />
+    <option name="LAST_COMMIT_MESSAGE" value="format method using variable namesを追加する" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
