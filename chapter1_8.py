@@ -1,3 +1,3 @@
 print('##### s-string #####')
-a = 'a'
+a = 'b'
 print(f'a is {a}')
